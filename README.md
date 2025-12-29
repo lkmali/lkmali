@@ -7,7 +7,7 @@
 ## I'm a Coder, Developer, and Dreamer!!
 
 - 🌱 I’m currently learning everything
-- 🥅 2025 Goals: Learn more && Create more  === true
+- 🥅 2026 Goals: Learn more && Create more  === true
 - ⚡ Fun fact: I love to play TT 🏓, badminton 🏸 and dance 💃
 - 🦹‍♀️ I am passionate about technology 👩‍💻 & enjoy learning new things.🌏 </br>
 ### Languages and Tools:
