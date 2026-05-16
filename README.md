@@ -54,6 +54,7 @@ I love solving real-world problems using technology and continuously exploring m
 # 🌟 Featured Projects
 
 ## 🧾 Aukra — Digital Khata & Ledger App for Indian Businesses
+https://www.aukra.app/
 
 Aukra is one of my personal innovation products and client-focused solutions, built to simplify bookkeeping and business management for Indian merchants and SMEs.
 
@@ -69,6 +70,7 @@ Aukra is one of my personal innovation products and client-focused solutions, bu
 ---
 
 ## 🤖 AI Platforms & Enterprise Automation Systems
+https://www.aiplustechnology.com/
 
 Built multiple AI-powered applications, MCP server architectures, intelligent copilots, and automation systems for enterprise clients and internal products.
 
