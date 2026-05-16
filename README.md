@@ -1,4 +1,3 @@
-```md
 # Namaste there, I'm Laxman 👋
 
 🚀 Software Architect & Full-Stack Developer | AI Engineer | Cloud & Backend Specialist
@@ -171,6 +170,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wo
 If you'd like to explore my private work, enterprise projects, or live demos — feel free to connect.
 
 ---
-
-⭐️ From [Laxman Mali](https://github.com/lkmali)
-```
