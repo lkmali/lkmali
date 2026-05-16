@@ -3,12 +3,27 @@
 
 🚀 Software Architect & Full-Stack Developer | AI Engineer | Cloud & Backend Specialist
 
-[![Professional network](images/social/linkedin.png)](https://www.linkedin.com/in/laxman-mali-1062b910b/)
-[![Social question and answer](images/social/quora.png)](https://www.quora.com/profile/Laxman-Mali)
-[![Learn Build and Share](images/social/stackoverflow.png)](https://stackoverflow.com/users/6421967/laxman-mali)
+<p align="left">
+  <a href="https://www.linkedin.com/in/laxman-mali-1062b910b/">
+    <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 
-[![Portfolio](YOUR_LINK_1)](YOUR_LINK_1)
-[![Application Demo](YOUR_LINK_2)](YOUR_LINK_2)
+  <a href="https://www.quora.com/profile/Laxman-Mali">
+    <img alt="Quora" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111728.png" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/6421967/laxman-mali">
+    <img alt="StackOverflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
+  </a>
+
+  <a href="https://www.aukra.app">
+    <img alt="Portfolio" width="32px" src="https://img.icons8.com/fluency/48/domain.png" />
+  </a>
+
+  <a href="https://www.aiplustechnology.com/">
+    <img alt="Application Demo" width="32px" src="https://img.icons8.com/color/48/artificial-intelligence.png" />
+  </a>
+</p>
 
 ---
 
@@ -78,6 +93,7 @@ These are personal innovation projects and client-delivered enterprise solutions
 Worked on multiple large-scale enterprise applications and confidential private repositories that cannot be shared publicly due to NDA and client confidentiality agreements.
 
 Most projects include:
+
 - Banking & FinTech Platforms
 - AI Automation Systems
 - Cloud-native Architectures
@@ -93,55 +109,58 @@ Most projects include:
 
 <p align="left">
 
-<img align="left" alt="Visual Studio Code" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="Visual Studio Code" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="JavaScript" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img alt="JavaScript" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Node.js" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img alt="Node.js" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Typescript" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img alt="Typescript" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<img align="left" alt="MongoDB" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img alt="MongoDB" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<img align="left" alt="Docker" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img alt="Docker" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img align="left" alt="AWS" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img alt="AWS" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img align="left" alt="Git" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="Git" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="NPM" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
+<img alt="NPM" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
-<img align="left" alt="Nextjs" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img alt="Nextjs" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-<img align="left" alt="GraphQL" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="padding-right:10px;" />
+<img alt="GraphQL" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 
 </p>
-
-<br />
-<br />
-<br />
 
 ---
 
 # 📈 GitHub Stats
 
-<img align="left" alt="Laxman's GitHub Stats"
-src="https://github-readme-stats.vercel.app/api?username=lkmali&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lkmali&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmali&layout=compact&theme=dark)](https://github.com/lkmali)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkmali&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
