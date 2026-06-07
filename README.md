@@ -7,6 +7,24 @@
     <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 
+  <a href="https://stackoverflow.com/users/6421967/laxman-mali">
+    <img alt="StackOverflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
+  </a>
+
+  <a href="https://www.aukra.app">
+    <img alt="Portfolio" width="32px" src="https://img.icons8.com/fluency/48/domain.png" />
+  </a>
+
+  <a href="https://www.aiplustechnology.com/">
+    <img alt="AI Plus Technology" width="32px" src="https://img.icons8.com/color/48/artificial-intelligence.png" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/laxman-mali-1062b910b/">
+    <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+
   <a href="https://www.quora.com/profile/Laxman-Mali">
     <img alt="Quora" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111728.png" />
   </a>
@@ -23,6 +41,21 @@
     <img alt="AI Plus Technology" width="32px" src="https://img.icons8.com/color/48/artificial-intelligence.png" />
   </a>
 </p>
+
+### 📫 Contact Me
+
+📧 Email: <a href="mailto:laxmanasawa9312@gmail.com">[laxmanasawa9312@gmail.com](mailto:laxmanasawa9312@gmail.com)</a>
+
+💬 WhatsApp: <a href="https://wa.me/8442033494" target="_blank">
++91 8442033494 </a>
+
+🌐 Portfolio: https://www.aukra.app
+
+🤖 AI Platform: https://www.aiplustechnology.com
+
+🌐 Demo URL: http://140.245.233.90:3000
+
+
 
 ---
 
