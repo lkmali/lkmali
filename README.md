@@ -210,24 +210,6 @@ Worked on multiple large-scale enterprise applications and confidential client p
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lkmali&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkmali&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in discussing:
